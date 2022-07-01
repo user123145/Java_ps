@@ -1,1 +1,1 @@
-# JAVA_ps
+# JAVA 문제풀이
